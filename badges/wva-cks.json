@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "wva-cks",
-  "message": "unknown",
-  "color": "lightgrey"
+  "label": "CKS",
+  "message": "infra-error",
+  "color": "orange"
 }
