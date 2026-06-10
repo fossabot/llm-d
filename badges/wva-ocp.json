@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "wva-ocp",
-  "message": "unknown",
-  "color": "lightgrey"
+  "label": "OCP",
+  "message": "passing",
+  "color": "brightgreen"
 }
