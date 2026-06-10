@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "tiered-prefix-cache-cpu-offloading-gke",
-  "message": "unknown",
-  "color": "lightgrey"
+  "label": "GKE GPU",
+  "message": "passing",
+  "color": "brightgreen"
 }
