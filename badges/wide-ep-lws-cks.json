@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "wide-ep-lws-cks",
-  "message": "unknown",
-  "color": "lightgrey"
+  "label": "CKS",
+  "message": "passing",
+  "color": "brightgreen"
 }
