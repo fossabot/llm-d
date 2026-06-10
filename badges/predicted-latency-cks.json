@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "predicted-latency-cks",
-  "message": "unknown",
-  "color": "lightgrey"
+  "label": "CKS",
+  "message": "failing",
+  "color": "red"
 }
