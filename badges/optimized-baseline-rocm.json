@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "ROCm",
-  "message": "failing",
-  "color": "red"
+  "label": "VLLM ROCm",
+  "message": "infra-error",
+  "color": "orange"
 }
