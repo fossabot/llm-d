@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "GKE GPU",
+  "label": "VLLM GPU",
   "message": "passing",
   "color": "brightgreen"
 }
