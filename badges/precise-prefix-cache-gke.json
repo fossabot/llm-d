@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "precise-prefix-cache-gke",
-  "message": "unknown",
-  "color": "lightgrey"
+  "label": "GKE GPU",
+  "message": "passing",
+  "color": "brightgreen"
 }
