@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "CKS",
-  "message": "failing",
-  "color": "red"
+  "label": "VLLM GPU",
+  "message": "infra-error",
+  "color": "orange"
 }
