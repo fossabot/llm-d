@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "XPU",
+  "label": "VLLM XPU",
   "message": "passing",
   "color": "brightgreen"
 }
