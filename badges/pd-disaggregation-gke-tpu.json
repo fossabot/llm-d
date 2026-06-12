@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "label": "GKE TPU",
-  "message": "passing",
-  "color": "brightgreen"
+  "label": "VLLM TPU",
+  "message": "infra-error",
+  "color": "orange"
 }
