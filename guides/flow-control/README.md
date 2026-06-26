@@ -71,7 +71,7 @@ Flow Control is a software-level scheduling feature at the EPP layer and is enti
 * Checkout llm-d repo:
 
   ```bash
-  export branch="release-0.8" # branch, tag, or commit hash
+  export branch="v0.8.1" # branch, tag, or commit hash
   git clone https://github.com/llm-d/llm-d.git && cd llm-d && git checkout ${branch}
   ```
 

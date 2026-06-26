@@ -18,7 +18,7 @@ For this quickstart, we will use the **Standalone Mode** deployment, which is th
 - Checkout llm-d repo:
 
   ```bash
-    export branch="release-0.8"
+    export branch="v0.8.1"
     git clone https://github.com/llm-d/llm-d.git && cd llm-d && git checkout ${branch}
   ```
 

@@ -56,7 +56,7 @@ Choose between topologies:
 - Have the [proper client tools installed on your local system](../../../helpers/client-setup/README.md) to use this guide.
 - Checkout llm-d repo:
 ```bash
-export branch="release-0.8" # branch, tag, or commit hash
+export branch="v0.8.1" # branch, tag, or commit hash
 git clone https://github.com/llm-d/llm-d.git && cd llm-d && git checkout ${branch}
 ```
 - Set the following environment variables (choose your topology):
